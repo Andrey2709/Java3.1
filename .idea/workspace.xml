@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6240d306-faee-425e-8e25-7d4142290bc8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="20rcTxviAWacBa8pWtalhECGeuq" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaLesson2.1" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="java_level3_Lesson1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6240d306-faee-425e-8e25-7d4142290bc8" name="Default Changelist" comment="" />
+      <created>1636806158380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636806158380</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="331" y="73" key="#Project_Structure" timestamp="1636806168859">
+      <screen x="0" y="0" width="1680" height="1002" />
+    </state>
+    <state x="331" y="73" key="#Project_Structure/0.0.1680.1002@0.0.1680.1002" timestamp="1636806168859" />
+    <state x="597" y="144" key="#com.intellij.ide.util.MemberChooser" timestamp="1637045983290">
+      <screen x="0" y="0" width="1680" height="1002" />
+    </state>
+    <state x="597" y="144" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1002@0.0.1680.1002" timestamp="1637045983290" />
+    <state x="503" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1636909784839">
+      <screen x="0" y="0" width="1680" height="1002" />
+    </state>
+    <state x="503" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1002@0.0.1680.1002" timestamp="1636909784839" />
+    <state x="566" y="193" key="FileChooserDialogImpl" timestamp="1638293696521">
+      <screen x="0" y="0" width="1680" height="1002" />
+    </state>
+    <state x="566" y="193" key="FileChooserDialogImpl/0.0.1680.1002@0.0.1680.1002" timestamp="1638293696521" />
+    <state width="1680" height="248" key="GridCell.Tab.0.bottom" timestamp="1637052399774">
+      <screen x="0" y="0" width="1680" height="1002" />
+    </state>
+    <state width="1680" height="248" key="GridCell.Tab.0.bottom/0.0.1680.1002@0.0.1680.1002" timestamp="1637052399774" />
+    <state width="1680" height="248" key="GridCell.Tab.0.center" timestamp="1637052399774">
+      <screen x="0" y="0" width="1680" height="1002" />
+    </state>
+    <state width="1680" height="248" key="GridCell.Tab.0.center/0.0.1680.1002@0.0.1680.1002" timestamp="1637052399774" />
+    <state width="1680" height="248" key="GridCell.Tab.0.left" timestamp="1637052399774">
+      <screen x="0" y="0" width="1680" height="1002" />
+    </state>
+    <state width="1680" height="248" key="GridCell.Tab.0.left/0.0.1680.1002@0.0.1680.1002" timestamp="1637052399774" />
+    <state width="1680" height="248" key="GridCell.Tab.0.right" timestamp="1637052399774">
+      <screen x="0" y="0" width="1680" height="1002" />
+    </state>
+    <state width="1680" height="248" key="GridCell.Tab.0.right/0.0.1680.1002@0.0.1680.1002" timestamp="1637052399774" />
+    <state x="80" y="257" width="1480" height="802" key="dock-window-1" timestamp="1637042863359">
+      <screen x="0" y="0" width="1680" height="1002" />
+    </state>
+    <state x="80" y="257" width="1480" height="802" key="dock-window-1/0.0.1680.1002@0.0.1680.1002" timestamp="1637042863359" />
+    <state x="106" y="17" key="new project wizard" timestamp="1637060024922">
+      <screen x="0" y="0" width="1680" height="1002" />
+    </state>
+    <state x="106" y="17" key="new project wizard/0.0.1680.1002@0.0.1680.1002" timestamp="1637060024922" />
+    <state x="518" y="40" key="refactoring.ChangeSignatureDialog" timestamp="1637048697387">
+      <screen x="0" y="0" width="1680" height="1002" />
+    </state>
+    <state x="518" y="40" key="refactoring.ChangeSignatureDialog/0.0.1680.1002@0.0.1680.1002" timestamp="1637048697387" />
+  </component>
+</project>
